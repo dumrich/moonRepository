@@ -1,0 +1,19 @@
+{
+	"RepoName": "moon",
+	"Version": "0.0.1",
+	"Directory": [
+		{"Browsers": []},
+		{"DeskEnv": []},
+		{"Editors": []},
+		{"Languages": []},
+		{"Media": []},
+		{"Shells": []},
+		{"SysInfo": []},
+		{"Terms": [
+			{"urxvt": "9.26"}
+		]},
+		{"Torrents": []},
+		{"Vcs": []},
+		{"WinMan": []}
+	]
+}
