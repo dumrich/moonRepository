@@ -1,0 +1,13 @@
+{
+	"name": "st",
+	"source": "https://dl.suckless.org/st/st-0.8.4.tar.gz",
+	"file": "st-0.8.4.tar.gz",
+	"format": "tar.gz",
+	"version": "0.8.4",
+	"binaries": ["st"],
+	"deps": ["make"],
+	"steps": [
+		""
+	]
+
+}
